@@ -1,0 +1,33 @@
+Polychain 2030 | Technical Talk Series #1 
+Decentralized Engineering: JavaScript Frameworks
+When: April 10th from 5-7pm
+Where: 1550 Bryant Street Penthouse San Francisco, CA 94103
+ 
+We’d like to invite you to join us in exploring decentralized engineering challenges: competing JavaScript frameworks, in-browser security, debugging reverts, and state management best practices alongside brilliant engineers in blockchain. This is a private educational event for FE and FS engineers across all industries to network and consider new approaches. Come ready to hear 10 to 15-minute discussions on the topics below by our panelists, followed by an open breakout for discussion where refreshments will be provided.
+
+Topics:
+
+Light Clients: why are they essential for decentralized internet Henry Harder | Paradigm.Market
+●	How the ubiquity of light clients will precede the realization of a peer-to-peer internet
+
+Undiscovered best practices for decentralized front end applications | Patrick Lorio | merkleX.io
+●	Dealing with a new asynchronous backend with multiple failure cases and probabilistic processing times. How do you keep the user informed and in control while managing all the new states?
+●	Audit or rebuild? The trade-off of security and convenience in the world of compromised NPM repositories.
+●	Building strong abstractions to manage secure wallets in an insecure environment (MetaMask, Ledger, Trezor)
+
+Dealing with Transaction Reverts in the Wild | Bryce Neal | dYdX.exchange
+●	What are transaction reverts and why do they occur?
+●	What tools can we use to log, debug, and trace reverted transactions?
+●	Managing expectations and communicating transaction reverts to end-users via UI/UX design patterns.
+
+Building Trustless UX With User Accessibility in Mind | Nadav Hollander | Dharma.io
+●	The magical world of "meta-transactions" — how they work, and how to build applications that use them without relying on MetaMask
+●	Security in the context of in-browser, JS-triggered crypto operations
+●	Counter-factual contract instantiation (i.e. CREATE2)
+●	Designing non-custodial experiences that fit into users' existing mental models instead of asking them to learn new ones.
+
+Security first: Understanding and Agreeing on the World Around Us | Joao Peixoto | Anchorage
+●	 How simple guidelines should be generally enforced to improve the reliability of your web application, from headers to CSP
+●	GraphQL as the de facto type system, extensible and testable at compile time. 
+
+
